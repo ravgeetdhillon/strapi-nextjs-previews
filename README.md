@@ -2,9 +2,7 @@
 
 # Content Previews with Strapi and Next.js
 
-This repository servers as a code container for the tutorial I wrote on [Strapi's Blog](https://blog.ravgeet.in/handling-previews-in-a-headless-architecture-strapi-and-nextjs).
-
-> Link will be updated once the article is published.
+This repository serves as a code container for the tutorial I wrote on [Strapi's Blog](https://blog.ravgeet.in/handling-previews-in-a-headless-architecture-strapi-and-nextjs).
 
 ## Features
 
